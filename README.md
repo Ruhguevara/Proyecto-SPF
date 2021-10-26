@@ -1,1 +1,1 @@
-Proyecto-SPF
+Financial Processes Simulation Project. In this project, we analyzed a 40 MB dataset with 16 columns and about 40k rows. Containing YouTube statistics like views, comments, likes, dislikes, etc. Some statistic and quantitative methods used are: Monte Carlo Simulation, Variance Reduction, Q-Q Plot Test, EDA, Rejection Sampling, Random Variables Generation, Kolmogorov-Smirnov Test, Kernel Density Estimation, Stratified Sampling, etc.
